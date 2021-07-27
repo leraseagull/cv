@@ -1,0 +1,7 @@
+.about {
+    width: 80%;
+    display: grid;
+    grid-template-columns: 560px 500px;
+    gap: 90px;
+    padding: 9vh;
+}

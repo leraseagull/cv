@@ -1,0 +1,6 @@
+.card {
+    display: grid;
+    grid-template-columns: 500px 400px;
+    gap: 5px 5px;
+    padding-bottom: 10px;
+}
