@@ -17,10 +17,8 @@ function About() {
                 <a href="https://github.com/leraseagull" rel = "noreferrer" target="_blank" className="about__info"><p>Github</p><img src={arrow} className="about__info-image" alt="стрелка" /></a>
                 </div>
                 </div>
-                <div className="about__overlay">
                 <img src={я} className="about__photo" alt="Мое фото" />
                 </div>
-            </div>
         );
 }
 

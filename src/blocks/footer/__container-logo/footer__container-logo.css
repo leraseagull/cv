@@ -1,0 +1,10 @@
+.footer__container-logo {
+    display: flex;
+}
+
+@media screen and (max-width: 655px) {
+    .footer__container-logo {
+        align-items: center;
+    }
+    
+}

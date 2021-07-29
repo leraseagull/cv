@@ -1,0 +1,18 @@
+.footer__column-name {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+@media screen and (max-width: 686px) {
+    .footer__column-name {
+        font-size: 10px;
+}
+}
+
+@media screen and (max-width: 340px) {
+    .footer__column-name {
+        margin: 0;
+    }
+}

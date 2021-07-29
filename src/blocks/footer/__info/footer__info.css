@@ -1,0 +1,17 @@
+.footer__info {
+    display: flex;
+    color: #000 !important;
+    text-decoration: none;
+    font-weight: bold;
+    align-items: center;
+}
+
+.footer__info:last-child {
+    margin-left: 25px;
+}
+
+@media screen and (max-width: 686px) {
+    .footer__info:last-child {
+        margin: 0;
+    }
+}

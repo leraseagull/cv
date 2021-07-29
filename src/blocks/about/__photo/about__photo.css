@@ -10,3 +10,50 @@
 .about__photo:hover {
     transform: scale(1.1);
 }
+
+@media screen and (max-width: 1280px) {
+    .about__photo {
+        width: 560px;
+        height: 560px;
+    }
+    
+}
+@media screen and (max-width: 920px) {
+    .about__photo {
+        width: 560px;
+        height: 560px;
+    }
+    
+}
+
+@media screen and (max-width: 900px) {
+    .about__photo {
+        width: 460px;
+        height: 460px;
+    }
+    
+}
+
+@media screen and (max-width: 786px) {
+    .about__photo {
+        width: 360px;
+        height: 360px;
+        
+    }
+}
+
+@media screen and (max-width: 595px) {
+    .about__photo {
+        width: 300px;
+        height: 300px;
+        
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .about__photo {
+        width: 200px;
+        height: 200px;
+        
+    }
+}

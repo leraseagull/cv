@@ -1,0 +1,13 @@
+.footer__icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 686px) {
+    .footer__icon {
+        width: 10px;
+        height: 10px;
+}
+}

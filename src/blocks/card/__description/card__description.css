@@ -1,3 +1,11 @@
 .card__description {
     margin: 0;
+    text-align: left;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 655px) {
+    .card__description {
+        font-size: 12px;
+    }
 }

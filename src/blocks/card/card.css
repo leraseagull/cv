@@ -1,6 +1,78 @@
 .card {
     display: grid;
-    grid-template-columns: 500px 400px;
-    gap: 5px 5px;
+    grid-template-columns: 600px 450px;
+    gap: 5px 73px;
     padding-bottom: 10px;
+}
+
+@media screen and (max-width: 1400px) {
+    .card {
+        grid-template-columns: 500px 450px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .card {
+        grid-template-columns: 500px 350px;
+    }
+}
+
+@media screen and (max-width: 1155px) {
+    .card {
+        grid-template-columns: 700px;
+        padding: 9vh;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .card {
+        grid-template-columns: 600px;
+        padding: 5vh;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .card {
+        grid-template-columns: 500px;
+        padding: 6vh;
+    }
+}
+
+@media screen and (max-width: 785px) {
+    .card {
+        grid-template-columns: 500px;
+        padding: 3vh;
+    }
+}
+
+@media screen and (max-width: 785px) {
+    .card {
+        grid-template-columns: 500px;
+        padding: 3vh;
+    }
+}
+
+@media screen and (max-width: 655px) {
+    .card {
+        grid-template-columns: 400px;
+        padding: 2vh;
+    }
+}
+
+@media screen and (max-width: 525px) {
+    .card {
+        grid-template-columns: 320px;
+        padding: 2vh;
+    }
+}
+@media screen and (max-width: 420px) {
+    .card {
+        grid-template-columns: 280px;
+        padding: 0;
+    }
+}
+@media screen and (max-width: 350px) {
+    .card {
+        grid-template-columns: 220px;
+    }
 }

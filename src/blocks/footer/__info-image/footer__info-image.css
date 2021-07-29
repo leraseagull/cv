@@ -1,0 +1,11 @@
+.footer__info-image {
+    margin-left: 5px;
+    width: 24px;
+}
+
+@media screen and (max-width: 655px) {
+    .footer__info-image {
+        width: 12px;
+    }
+    
+}

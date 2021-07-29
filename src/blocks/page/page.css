@@ -9,44 +9,6 @@
     font-family: 'Mazzard L', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
     margin: 0;
-    background: radial-gradient(#e097ca,#1f1013);
-    -webkit-overflow-Y: hidden;
-    -moz-overflow-Y: hidden;
-    -o-overflow-Y: hidden;
-    overflow-y: hidden;
-    -webkit-animation: fadeIn 1 1s ease-out;
-    -moz-animation: fadeIn 1 1s ease-out;
-    -o-animation: fadeIn 1 1s ease-out;
-    animation: fadeIn 1 1s ease-out;
+    background-color: rgb(230, 204, 219);
     
 }
-
-@-webkit-keyframes floatUp{
-    0%{top: 100vh; opacity: 0;}
-    25%{opacity: 1;}
-    50%{top: 0vh; opacity: .8;}
-    75%{opacity: 1;}
-    100%{top: -100vh; opacity: 0;}
-  }
-  @-moz-keyframes floatUp{
-    0%{top: 100vh; opacity: 0;}
-    25%{opacity: 1;}
-    50%{top: 0vh; opacity: .8;}
-    75%{opacity: 1;}
-    100%{top: -100vh; opacity: 0;}
-  }
-  @-o-keyframes floatUp{
-    0%{top: 100vh; opacity: 0;}
-    25%{opacity: 1;}
-    50%{top: 0vh; opacity: .8;}
-    75%{opacity: 1;}
-    100%{top: -100vh; opacity: 0;}
-  }
-  @keyframes floatUp{
-    0%{top: 100vh; opacity: 0;}
-    25%{opacity: 1;}
-    50%{top: 0vh; opacity: .8;}
-    75%{opacity: 1;}
-    100%{top: -100vh; opacity: 0;}
-  }
-  

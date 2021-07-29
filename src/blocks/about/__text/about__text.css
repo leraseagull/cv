@@ -3,3 +3,10 @@
     line-height: 1.63;
     margin: 0;
 }
+
+@media screen and (max-width: 595px) {
+    .about__text {
+        font-size: 17px;
+        
+    }
+}
