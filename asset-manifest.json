@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.7ca609f5.chunk.css",
+    "main.js": "/cv/static/js/main.de86dd80.chunk.js",
+    "main.js.map": "/cv/static/js/main.de86dd80.chunk.js.map",
+    "runtime-main.js": "/cv/static/js/runtime-main.3f99c2b7.js",
+    "runtime-main.js.map": "/cv/static/js/runtime-main.3f99c2b7.js.map",
+    "static/js/2.a534d402.chunk.js": "/cv/static/js/2.a534d402.chunk.js",
+    "static/js/2.a534d402.chunk.js.map": "/cv/static/js/2.a534d402.chunk.js.map",
+    "index.html": "/cv/index.html",
+    "static/css/main.7ca609f5.chunk.css.map": "/cv/static/css/main.7ca609f5.chunk.css.map",
+    "static/js/2.a534d402.chunk.js.LICENSE.txt": "/cv/static/js/2.a534d402.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cv/static/media/MazzardL-Thin.faffdf5c.woff2",
+    "static/media/Mesto.7b278cd2.jpg": "/cv/static/media/Mesto.7b278cd2.jpg",
+    "static/media/arrow.8dd68813.svg": "/cv/static/media/arrow.8dd68813.svg",
+    "static/media/logo.4412a496.svg": "/cv/static/media/logo.4412a496.svg",
+    "static/media/vk_color_white.8d8c9a5f.svg": "/cv/static/media/vk_color_white.8d8c9a5f.svg",
+    "static/media/Конвертер.bcda190d.jpg": "/cv/static/media/Конвертер.bcda190d.jpg",
+    "static/media/Научиться.f52d5c6c.jpg": "/cv/static/media/Научиться.f52d5c6c.jpg",
+    "static/media/Путешествия.a35f8c62.jpg": "/cv/static/media/Путешествия.a35f8c62.jpg",
+    "static/media/я.529dc0d7.jpg": "/cv/static/media/я.529dc0d7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f99c2b7.js",
+    "static/js/2.a534d402.chunk.js",
+    "static/css/main.7ca609f5.chunk.css",
+    "static/js/main.de86dd80.chunk.js"
+  ]
+}
